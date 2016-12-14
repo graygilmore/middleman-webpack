@@ -7,8 +7,20 @@ This is a simple Middleman template using Webpack as the asset pipeline.
 This project uses Yarn to handle its developer dependencies. Feel free to use
 whatever package manager you want.
 
+* Install gems
+
 ```bash
 bundle install
+```
+
+* Install Yarn packages
+
+```bash
 yarn install
-bundle exec middleman s
+```
+
+* Start your server (cross your fingers)
+
+```bash
+bundle exec middleman server
 ```

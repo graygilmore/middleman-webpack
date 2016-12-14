@@ -1,0 +1,10 @@
+{
+  "name": "middleman-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gray Gilmore <graygilmore@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  }
+}

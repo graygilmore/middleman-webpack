@@ -5,6 +5,8 @@
   "author": "Gray Gilmore <graygilmore@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "node-sass": "^4.0.0",
+    "sass-loader": "^4.0.2",
     "webpack": "^1.14.0"
   }
 }
